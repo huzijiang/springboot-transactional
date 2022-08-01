@@ -60,3 +60,6 @@ INSERT INTO `teacher` VALUES (2, 'ma.jieke', 56);
 COMMIT;
 
 SET FOREIGN_KEY_CHECKS = 1;
+
+
+
